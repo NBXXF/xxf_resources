@@ -1,0 +1,3 @@
+include ':bktResources'
+include ':app'
+rootProject.name = "resources"
